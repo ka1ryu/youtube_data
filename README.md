@@ -1,2 +1,3 @@
-first commit
-
+# YoutubeDataApiからのデータ取得まとめ
+ここでは、個人的にYoutubeDataApiを利用してデータ収集をするための
+ロジックをまとめたファイルを保存していきます。
